@@ -1,0 +1,6 @@
+[aero leech]
+type = drive
+scope = drive
+token = {"access_token":"ya29.A0ARrdaM8NC3TaBl_zrqIfxtM7G3xmiiaEInJoOGt0Q4ughP8E7KBGY6-QvoY-kThanFgQjM0m-bBVmYBK6ilpr5ASEoEqMGs3Z93m_TFdlUE2wdbppBbw8wJKMWOIwWMXXIzpLpM5LkjgJ4Xn1iohkFRYW6Fr","token_type":"Bearer","refresh_token":"1//03hYZDFIX8MJzCgYIARAAGAMSNwF-L9IrOMelYR2n6dnGI95edLFzlPnFxPFVOpA88XnVZKSD43acrWVh2TrhU6NUzGn0ky8zxNI","expiry":"2022-03-23T13:44:46.5357505+05:00"}
+team_drive = 0ACFDkqjTqalFUk9PVA
+root_folder_id =
